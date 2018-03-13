@@ -2,7 +2,4 @@
 
 	echo "Ola Mundo";
 
-	echo "google";
-
-
 ?>	
