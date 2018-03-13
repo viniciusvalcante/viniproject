@@ -1,5 +1,5 @@
 <?php
 
-	echo "Ola Mundo2";
+	echo "Ola Mundo com conflito";
 
 ?>	
